@@ -1,0 +1,30 @@
+.chip {
+    display: inline-block;
+    padding: 0 25px;
+    height: 270px;
+    border-radius: 50px;
+    width:200px;
+    margin: 0px 10px 150px 90px;
+    box-shadow: 5px 10px ;
+    background-color: antiquewhite;
+  }
+  
+  
+.text p {line-height: 45px;
+         font-weight: bold;
+        font-size: 15px;
+        font-family: Comic Sans MS;
+        text-align: center;
+    
+}
+
+body {background-image: url("abstract.jpg");
+      /* background-repeat: no-repeat;
+      background-size: 100%; */
+     }
+
+h1 {color: aliceblue;
+    text-align: center;
+    margin: 100px;
+    font-weight: bold;
+    }
